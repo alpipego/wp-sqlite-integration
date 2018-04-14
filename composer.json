@@ -1,0 +1,7 @@
+{
+    "name": "wpackagist-plugin/sqlite-integration",
+    "description": "Fork of sqlite-integration plugin",
+    "type": "wordpress-plugin",
+    "license": "GPL2.0+",
+    "require": {}
+}
