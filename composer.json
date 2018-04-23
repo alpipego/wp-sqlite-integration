@@ -1,5 +1,8 @@
 {
-    "name": "wpackagist-plugin/sqlite-integration",
+    "name": "alpipego/wp-sqlite-integration",
+    "provide": {
+        "wpackagist-plugin/sqlite-integration": "1.8.1"
+    },
     "description": "Fork of sqlite-integration plugin",
     "type": "wordpress-plugin",
     "license": "GPL2.0+",
