@@ -1,5 +1,5 @@
 {
-    "name": "alpipego/wp-sqlite-integration",
+    "name": "alpipego/sqlite-integration",
     "provide": {
         "wpackagist-plugin/sqlite-integration": "1.8.1"
     },
